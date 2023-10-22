@@ -1,0 +1,1 @@
+File 1 was :  Hello this is first text file, File 2 was :  Hello this is second text file
